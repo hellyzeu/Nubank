@@ -1,3 +1,3 @@
 # Nubank
 Cartão NUBANK
-https://nubankt-cartao.netlify.app/
+https://site-notbook.netlify.app/
